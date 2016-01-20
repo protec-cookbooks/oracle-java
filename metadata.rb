@@ -1,3 +1,4 @@
+name		 "oracle-java"
 maintainer       "Protec Innovations"
 maintainer_email "dev@protecinnovations.co.uk"
 license          "BSD"
